@@ -359,7 +359,7 @@ You may terminate your Account at any time and for any reason.
 
 **5. Updates to the Service**
 
-    You understand that the Service is an evolving one. I may require that you
+   You understand that the Service is an evolving one. I may require that you
     accept updates to the Service and to my games you have installed on your
     device or computer. You acknowledge and agree that I may update the Service
     and my games, with or without notifying you. You may need to update third
@@ -368,7 +368,7 @@ You may terminate your Account at any time and for any reason.
 
 **6. Disclaimer of Warranties**
 
-    WITHOUT LIMITING MY LIABILITY UNDER SECTION 7 BELOW, THE SERVICE IS PROVIDED
+   WITHOUT LIMITING MY LIABILITY UNDER SECTION 7 BELOW, THE SERVICE IS PROVIDED
     ON AN "AS IS" AND "AS AVAILABLE" BASIS FOR YOUR USE, WITHOUT WARRANTIES OF
     ANY KIND, EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION THE WARRANTIES OF
     MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, NON-INFRINGEMENT,
@@ -382,7 +382,7 @@ You may terminate your Account at any time and for any reason.
 
 **7. Limitation of Liability; Sole and Exclusive Remedy; Indemnification**
 
-    TO THE MAXIMUM EXTENT PERMITTED BY LAW, I SHALL NOT BE LIABLE TO YOU FOR ANY
+   TO THE MAXIMUM EXTENT PERMITTED BY LAW, I SHALL NOT BE LIABLE TO YOU FOR ANY
     INDIRECT, INCIDENTAL, CONSEQUENTIAL, SPECIAL, PUNITIVE OR OTHER SIMILAR
     DAMAGES, INCLUDING BUT NOT LIMITED TO LOSS OF REVENUES, LOST PROFITS, LOST
     DATA OR BUSINESS INTERRUPTION OR OTHER INTANGIBLE LOSSES (HOWEVER SUCH
@@ -412,7 +412,7 @@ You may terminate your Account at any time and for any reason.
 
 **8. Dispute Resolution and Law**
 
-    If a dispute arises between you and me, we strongly encourage you to first
+   If a dispute arises between you and me, we strongly encourage you to first
     contact us directly to seek a resolution by going to our customer support
     site at https://polaris.ezyro.com/support.php. If you are a resident of the
     India, these Terms of Service and any dispute arising out of or related to
@@ -427,7 +427,7 @@ You may terminate your Account at any time and for any reason.
 
 **9. Severability**
 
-    You and I agree that if any portion of these Terms of Service or of My
+   You and I agree that if any portion of these Terms of Service or of My
     Privacy Policy is found illegal or unenforceable, in whole or in part by any
     court of competent jurisdiction, such provision shall, as to such
     jurisdiction, be ineffective solely to the extent of such determination of
