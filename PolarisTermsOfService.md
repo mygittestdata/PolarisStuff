@@ -1,4 +1,6 @@
 
+![screenshot](7059ccd040f37f1577dd23df19bc4356.png)
+
 # TERMS OF SERVICE
 
 ## Last Modified: 14 January, 2018 by KUNJESH VIRANI
