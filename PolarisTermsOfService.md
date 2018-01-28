@@ -175,7 +175,7 @@ You may terminate your Account at any time and for any reason.
 
 **2. Ownership**
 
-    1.  **Games and Service**
+   1.  **Games and Service**
 
         All rights, title and interest, in and to the Service (including without
         limitation any games, titles, computer code, themes, objects,
@@ -186,7 +186,7 @@ You may terminate your Account at any time and for any reason.
         including without limitation, all intellectual property rights or other
         proprietary rights, in connection with my games and the Service.
 
-    2.  **Accounts**
+   2.  **Accounts**
 
         NOTWITHSTANDING ANYTHING TO THE CONTRARY HEREIN, YOU ACKNOWLEDGE AND
         AGREE THAT YOU SHALL HAVE NO OWNERSHIP OR OTHER PROPERTY INTEREST IN THE
@@ -194,7 +194,7 @@ You may terminate your Account at any time and for any reason.
         THE ACCOUNT ARE AND SHALL FOREVER BE OWNED BY AND INURE TO THE BENEFIT
         OF MY.
 
-    3.  **Virtual Items**
+   3.  **Virtual Items**
 
         I owns, has licensed, or otherwise has rights to use all of the content
         that appears in the Service or in my games. Notwithstanding any
@@ -207,7 +207,7 @@ You may terminate your Account at any time and for any reason.
 
 **3. User Content**
 
-    1.  **Submission of User Content**
+   1.  **Submission of User Content**
 
         “User Content” means any communications, images, sounds, and all the
         material, data, and information that you upload or transmit through a my
@@ -254,7 +254,7 @@ You may terminate your Account at any time and for any reason.
             right, but not the obligation, in our sole discretion to edit,
             refuse to post, or remove any User Content.
 
-    2.  **Information Use by Other Members of the Service**
+   2.  **Information Use by Other Members of the Service**
 
         1.  **Public Disclosure**
 
@@ -304,7 +304,7 @@ You may terminate your Account at any time and for any reason.
             Content. I have no obligation to monitor or enforce your
             intellectual property rights in or to your User Content.
 
-    3.  **User Interactions**
+   3.  **User Interactions**
 
         You are solely responsible for your interactions with other users of the
         Service and any other parties with whom you interact through the Service
@@ -322,7 +322,7 @@ You may terminate your Account at any time and for any reason.
 
 **4. Fees and Purchase Terms**
 
-    1.  **Purchases**
+   1.  **Purchases**
 
         In the Service you may purchase, with “real world” money, a limited,
         personal, non-transferable, non-sublicensable, revocable license to use
@@ -438,7 +438,7 @@ You may terminate your Account at any time and for any reason.
 
 **10. General Provisions**
 
-    1.  **Assignment**
+   1.  **Assignment**
 
         I may assign or delegate these Terms of Service and/or My Privacy
         Policy, in whole or in part, to any person or entity at any time with or
@@ -447,7 +447,7 @@ You may terminate your Account at any time and for any reason.
         prior written consent, and any unauthorized assignment and delegation by
         you is ineffective.
 
-    2.  **Entire Agreement**
+   2.  **Entire Agreement**
 
         These Terms of Service, any supplemental policies and any documents
         expressly incorporated by reference herein (including the My Privacy
@@ -457,7 +457,7 @@ You may terminate your Account at any time and for any reason.
         established by custom, practice, policy or precedent, between you and me
         with respect to the Service.
 
-    3.  **No Waiver**
+   3.  **No Waiver**
 
         The failure of me to require or enforce strict performance by you of any
         provision of these Terms of Service or My Privacy Policy or failure to
@@ -473,14 +473,14 @@ You may terminate your Account at any time and for any reason.
         nor legally binding, unless documented in physical writing, hand signed
         by You and me.
 
-    4.  **Notices**
+   4.  **Notices**
 
         We may notify you via postings on www.polaris.ezyro.com, and via e-mail
         or any other communications means to contact information you provide to
         us. Any notices that you provide without compliance with this Section on
         Notices shall have no legal effect.
 
-    5.  **Equitable Remedies**
+   5.  **Equitable Remedies**
 
         You acknowledge that the rights granted and obligations made under these
         Terms of Service to me are of a unique and irreplaceable nature, the
@@ -496,13 +496,13 @@ You may terminate your Account at any time and for any reason.
         and agree to limit your claims to claims for monetary damages, limited
         by Section 7 (if any).
 
-    6.  **Supplemental Policies**
+   6.  **Supplemental Policies**
 
         I may publish additional policies related to specific services such as
         forums, contests or loyalty programs. Your right to use such services is
         subject to those specific policies and these Terms of Service.
 
-    7.  **Force Majeure**
+   7.  **Force Majeure**
 
         I shall not be liable for any delay or failure to perform resulting from
         causes outside the reasonable control of mine, including without
