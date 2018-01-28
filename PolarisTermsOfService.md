@@ -45,34 +45,34 @@ banned from playing my game.
 - You shall use your Account only for non-commercial purposes; you shall not use the Service to advertise, or solicit, or transmit any 
 commercial advertisements, including chain letters, junk or spam e-mail or repetitive or misleading messages to anyone.
 
->   **Login Information and Your Account**
+ **Login Information and Your Account**
 
->   You may be required to select a password for your Account or you may also
->   use other credentials to access the Account (“Login Information”). You shall
->   not share the Account or the Login Information, not let anyone else access
->   your Account or do anything else that might jeopardize the security of your
->   Account. In the event you become aware of or reasonably suspect any breach
->   of security, including without limitation any loss, theft, or unauthorized
->   disclosure of the Login information, you must immediately notify me and
->   modify your Login Information. You are solely responsible for maintaining
->   the confidentiality of the Login Information, and you will be responsible
->   for all uses of the Login Information, including purchases, whether or not
->   authorized by you. You are responsible for anything that happens through
->   your Account.
+ You may be required to select a password for your Account or you may also
+ use other credentials to access the Account (“Login Information”). You shall
+ not share the Account or the Login Information, not let anyone else access
+ your Account or do anything else that might jeopardize the security of your
+   Account. In the event you become aware of or reasonably suspect any breach
+   of security, including without limitation any loss, theft, or unauthorized
+   disclosure of the Login information, you must immediately notify me and
+   modify your Login Information. You are solely responsible for maintaining
+   the confidentiality of the Login Information, and you will be responsible
+   for all uses of the Login Information, including purchases, whether or not
+   authorized by you. You are responsible for anything that happens through
+   your Account.
 
->   I reserves the right to remove or reclaim any usernames at any time and for
->   any reason, including but not limited to claims by a third party that a
->   username violates the third party’s rights.
+   I reserves the right to remove or reclaim any usernames at any time and for
+   any reason, including but not limited to claims by a third party that a
+   username violates the third party’s rights.
 
->   The Service supports only one Account per game on a supported device.
+   The Service supports only one Account per game on a supported device.
 
->   **License Limitations**
+   **License Limitations**
 
->   Any use of the Service in violation of these License Limitations is strictly
->   prohibited, can result in the immediate revocation of your limited license
->   and may subject you to liability for violations of law.
+   Any use of the Service in violation of these License Limitations is strictly
+   prohibited, can result in the immediate revocation of your limited license
+   and may subject you to liability for violations of law.
 
->   You agree that you will not, under any circumstances:
+   You agree that you will not, under any circumstances:
 
 -   Engage in any act that I deems to be in conflict with the spirit or intent
     of the Service or make improper use of my support service.
