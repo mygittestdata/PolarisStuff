@@ -151,7 +151,7 @@ WITHOUT LIMITING ANY OTHER REMEDIES, I MAY LIMIT SUSPEND, TERMINATE, MODIFY,
     YOUR USE OF THE SERVICE, ANS I AM UNDER NO OBLIGATION TO COMPENSATE YOU FOR
     ANY SUCH LOSSES OR RESULTS.
 
-    WITHOUT LIMITING OUR OTHER REMEDIES, WE MAY LIMIT, SUSPEND OR TERMINATE THE
+WITHOUT LIMITING OUR OTHER REMEDIES, WE MAY LIMIT, SUSPEND OR TERMINATE THE
     SERVICE AND USER ACCOUNTS OR PORTIONS THEREOF, PROHIBIT ACCESS TO OUR GAMES
     AND SITES, AND THEIR CONTENT, SERVICES AND TOOLS, DELAY OR REMOVE HOSTED
     CONTENT, AND TAKE TECHNICAL AND LEGAL STEPS TO PREVENT USERS FROM ACCESSING
@@ -162,7 +162,7 @@ WITHOUT LIMITING ANY OTHER REMEDIES, I MAY LIMIT SUSPEND, TERMINATE, MODIFY,
     DISCRETION, SUSPEND OR TERMINATE ACCOUNTS OF USERS WHO MAY BE REPEAT
     INFRINGERS OF THIRD PARTY INTELLECTUAL PROPERTY RIGHTS.
 
-    I reserves rights to stop offering and/or supporting the Service or a
+I reserves rights to stop offering and/or supporting the Service or a
     particular game or part of the Service at any time, at which point your
     license to use the Service or a part thereof will be automatically
     terminated. I such event, I shall not be required to provide refunds,
@@ -171,9 +171,9 @@ WITHOUT LIMITING ANY OTHER REMEDIES, I MAY LIMIT SUSPEND, TERMINATE, MODIFY,
     the Service or any part thereof including any content you submitted or
     others submitted.
 
-    You may terminate your Account at any time and for any reason.
+You may terminate your Account at any time and for any reason.
 
-2.  **Ownership**
+**2. Ownership**
 
     1.  **Games and Service**
 
@@ -205,7 +205,7 @@ WITHOUT LIMITING ANY OTHER REMEDIES, I MAY LIMIT SUSPEND, TERMINATE, MODIFY,
         me, or any other attributes associated with an Account or stored on the
         Service.
 
-3.  **User Content**
+**3. User Content**
 
     1.  **Submission of User Content**
 
@@ -320,7 +320,7 @@ WITHOUT LIMITING ANY OTHER REMEDIES, I MAY LIMIT SUSPEND, TERMINATE, MODIFY,
         kind and nature, known and unknown, arising out of or in any way
         connected with such disputes.
 
-4.  **Fees and Purchase Terms**
+**4. Fees and Purchase Terms**
 
     1.  **Purchases**
 
@@ -357,7 +357,7 @@ WITHOUT LIMITING ANY OTHER REMEDIES, I MAY LIMIT SUSPEND, TERMINATE, MODIFY,
         UNUSED VIRTUAL ITEMS WHEN AN ACCOUNT IS CLOSED, WHETHER SUCH CLOSURE WAS
         VOLUNTARY OR INVOLUNTARY.
 
-5.  **Updates to the Service**
+**5. Updates to the Service**
 
     You understand that the Service is an evolving one. I may require that you
     accept updates to the Service and to my games you have installed on your
@@ -366,7 +366,7 @@ WITHOUT LIMITING ANY OTHER REMEDIES, I MAY LIMIT SUSPEND, TERMINATE, MODIFY,
     party software from time to time in order to receive the Service and play my
     games.
 
-6.  **Disclaimer of Warranties**
+**6. Disclaimer of Warranties**
 
     WITHOUT LIMITING MY LIABILITY UNDER SECTION 7 BELOW, THE SERVICE IS PROVIDED
     ON AN "AS IS" AND "AS AVAILABLE" BASIS FOR YOUR USE, WITHOUT WARRANTIES OF
@@ -380,7 +380,7 @@ WITHOUT LIMITING ANY OTHER REMEDIES, I MAY LIMIT SUSPEND, TERMINATE, MODIFY,
     Some jurisdictions do not allow the exclusion of certain warranties.
     Accordingly, some of the above disclaimers may not apply to you.
 
-7.  **Limitation of Liability; Sole and Exclusive Remedy; Indemnification**
+**7. Limitation of Liability; Sole and Exclusive Remedy; Indemnification**
 
     TO THE MAXIMUM EXTENT PERMITTED BY LAW, I SHALL NOT BE LIABLE TO YOU FOR ANY
     INDIRECT, INCIDENTAL, CONSEQUENTIAL, SPECIAL, PUNITIVE OR OTHER SIMILAR
@@ -410,7 +410,7 @@ WITHOUT LIMITING ANY OTHER REMEDIES, I MAY LIMIT SUSPEND, TERMINATE, MODIFY,
     foregoing does not apply if the infringement of rights is not attributable
     to your intentional or negligent behaviour.
 
-8.  **Dispute Resolution and Law**
+**8. Dispute Resolution and Law**
 
     If a dispute arises between you and me, we strongly encourage you to first
     contact us directly to seek a resolution by going to our customer support
@@ -425,7 +425,7 @@ WITHOUT LIMITING ANY OTHER REMEDIES, I MAY LIMIT SUSPEND, TERMINATE, MODIFY,
     You agree that any claim or dispute you may have against me must be resolved
     exclusively by a court located in Gujarat, India.
 
-9.  **Severability**
+**9. Severability**
 
     You and I agree that if any portion of these Terms of Service or of My
     Privacy Policy is found illegal or unenforceable, in whole or in part by any
@@ -436,7 +436,7 @@ WITHOUT LIMITING ANY OTHER REMEDIES, I MAY LIMIT SUSPEND, TERMINATE, MODIFY,
     affecting the remaining provisions of the terms, which shall continue to be
     in full force and effect.
 
-10. **General Provisions**
+**10. General Provisions**
 
     1.  **Assignment**
 
