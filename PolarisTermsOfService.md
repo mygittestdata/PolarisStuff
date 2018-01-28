@@ -1,5 +1,5 @@
 
-![screenshot](7059ccd040f37f1577dd23df19bc4356.png)
+![screenshot](logo_new_second_web.png)
 
 # TERMS OF SERVICE
 
@@ -479,37 +479,4 @@ You may terminate your Account at any time and for any reason.
 
         We may notify you via postings on www.polaris.ezyro.com, and via e-mail
         or any other communications means to contact information you provide to
-        us. Any notices that you provide without compliance with this Section on
-        Notices shall have no legal effect.
-
-   5.  **Equitable Remedies**
-
-        You acknowledge that the rights granted and obligations made under these
-        Terms of Service to me are of a unique and irreplaceable nature, the
-        loss of which shall irreparably harm me and which cannot be replaced by
-        monetary damages alone so that I shall be entitled to injunctive or
-        other equitable relief (without the obligations of posting any bond or
-        surety or proof of damages) in the event of any breach or anticipatory
-        breach by you. You irrevocably waive all rights to seek injunctive or
-        other equitable relief, or to enjoin or restrain the operation of the
-        Service or any my game, exploitation of any advertising or other
-        materials issued in connection therewith, or exploitation of the Service
-        or any content or other material used or displayed through the Service
-        and agree to limit your claims to claims for monetary damages, limited
-        by Section 7 (if any).
-
-   6.  **Supplemental Policies**
-
-        I may publish additional policies related to specific services such as
-        forums, contests or loyalty programs. Your right to use such services is
-        subject to those specific policies and these Terms of Service.
-
-   7.  **Force Majeure**
-
-        I shall not be liable for any delay or failure to perform resulting from
-        causes outside the reasonable control of mine, including without
-        limitation any failure to perform hereunder due to unforeseen
-        circumstances or cause beyond My control such as acts of God, war,
-        terrorism, riots, embargoes, acts of civil or military authorities,
-        fire, floods, accidents, strikes, or shortages of transportation
-        facilities, fuel, energy, labour or materials.
+        us. Any notices that you provide without compl
