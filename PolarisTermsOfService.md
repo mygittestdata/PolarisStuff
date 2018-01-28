@@ -1,30 +1,20 @@
-![](media/7059ccd040f37f1577dd23df19bc4356.png)
 
-**TERMS OF SERVICE**
+# TERMS OF SERVICE
 
-Last Modified: 14 January, 2018 by KUNJESH VIRANI
+## Last Modified: 14 January, 2018 by KUNJESH VIRANI
 
-The terms of this agreement (“Terms of Service”) govern the relationship between
-you and KUNJESH VIRANI (“Me”, “KUNJESHKUMAR VIRANI”, “KUNJESHKUMAR NIKUNJBHAI
-VIRANI”, “KUNJESH NIKUNJBHAI VIRANI”, “I”, “My” or “Our”) regarding your use of
-my games, websites and related services (the “Service”). Use of the Service is
-also governed by my Privacy Policy and other relevant policies, which are
-incorporated herein by reference.
+The terms of this agreement (“Terms of Service”) govern the relationship between you and KUNJESH VIRANI (“Me”, “KUNJESHKUMAR VIRANI”, 
+“KUNJESHKUMAR NIKUNJBHAI VIRANI”, “KUNJESH NIKUNJBHAI VIRANI”, “I”, “My” or “Our”) regarding your use of my games, websites and related 
+services (the “Service”). Use of the Service is also governed by my Privacy Policy and other relevant policies, which are incorporated 
+herein by reference.
 
-Before accessing or using the Service, including browsing any my website or
-accessing a game, you must agree to these Terms of Service and the Privacy
-Policy. You may also be required to register an account on the Service (an
-“Account”). By registering for an Account or otherwise using the Service, you
-represent that you are age 13 or older. If you are between the ages of 13 and
-17, you represent that your legal guardian has reviewed and agreed to these
-Terms. If you access the Service from Social Networking Site (“SNS”), such as
-Facebook or Google+, you shall comply with its terms of service/use as well as
-these Terms of Service.
+Before accessing or using the Service, including browsing any my website or accessing a game, you must agree to these Terms of Service 
+and the Privacy Policy. You may also be required to register an account on the Service (an “Account”). By registering for an Account or 
+otherwise using the Service, you represent that you are age 13 or older. If you are between the ages of 13 and 17, you represent that 
+your legal guardian has reviewed and agreed to these Terms. If you access the Service from Social Networking Site (“SNS”), such as Facebook or Google+, you shall comply with its terms of service/use as well as these Terms of Service.
 
-BY INSTALLING, USING OR OTHERWISE ACCESSING THE SERVICE, YOU AGREE TO THESE
-TERMS OF SERVICE. IF YOU DO NOT AGREE TO THESE TERMS OF SERVICE, PLEASE DO NOT
-INSTALL, USE OR OTHERWISE ACCESS THE SERVICE. USE OF THE SERVICE IS VOID WHERE
-PROHIBITED.
+BY INSTALLING, USING OR OTHERWISE ACCESSING THE SERVICE, YOU AGREE TO THESE TERMS OF SERVICE. IF YOU DO NOT AGREE TO THESE TERMS OF 
+SERVICE, PLEASE DO NOT INSTALL, USE OR OTHERWISE ACCESS THE SERVICE. USE OF THE SERVICE IS VOID WHERE PROHIBITED.
 
 I reserves the right, at its discretion, to change, modify, add or remove
 portions of these Terms of Service, its Privacy Policy and other relevant my
@@ -36,36 +26,24 @@ rules or codes of conduct relating to your use of the Service, your license to
 use the Service shall immediately terminate, and you must immediately stop using
 the Service.
 
-1.  **License**
+**1. License**
 
-    1.  **Grant of a Limited License to Use the Service**
+*1. Grant of a Limited License to Use the Service*
+     
+Subject to your agreement and continuing compliance with these Terms of Service and any other relevant my policies, I grants you a non-
+exclusive, non-transferable, non-sublicensable, revocable and limited license to access and use the Service for your own non-commercial 
+entertainment purposes. You agree not to use the Service for any other purpose.
 
-        Subject to your agreement and continuing compliance with these Terms of
-        Service and any other relevant my policies, I grants you a
-        non-exclusive, non-transferable, non-sublicensable, revocable and
-        limited license to access and use the Service for your own
-        non-commercial entertainment purposes. You agree not to use the Service
-        for any other purpose.
+*The following restrictions apply to the use of the Service:*
 
-        The following restrictions apply to the use of the Service:
-
--   You shall not create an Account or access the Service if you are under the
-    age of 13; You shall restrict use by minors, and you will deny access to
-    children under the age of 13. You accept full responsibility for any
-    unauthorized use of the Service by minors. You are responsible for any use
-    of your credit card, debit card or other payment instruments (e.g. paypal)
-    by minors.
-
--   You shall not (or attempt to) purchase, sell, rent or give away your
-    Account, create an Account using a false identity or information, or on
-    behalf of someone other than yourself; You shall not use the Service if you
-    have previously been removed by me, or previously been banned from playing
-    my game.
-
--   You shall use your Account only for non-commercial purposes; you shall not
-    use the Service to advertise, or solicit, or transmit any commercial
-    advertisements, including chain letters, junk or spam e-mail or repetitive
-    or misleading messages to anyone.
+- You shall not create an Account or access the Service if you are under the age of 13; You shall restrict use by minors, and you will 
+deny access to children under the age of 13. You accept full responsibility for any unauthorized use of the Service by minors. You are 
+responsible for any use of your credit card, debit card or other payment instruments (e.g. paypal) by minors.
+- You shall not (or attempt to) purchase, sell, rent or give away your Account, create an Account using a false identity or information,
+or on behalf of someone other than yourself; You shall not use the Service if you have previously been removed by me, or previously been 
+banned from playing my game.
+- You shall use your Account only for non-commercial purposes; you shall not use the Service to advertise, or solicit, or transmit any 
+commercial advertisements, including chain letters, junk or spam e-mail or repetitive or misleading messages to anyone.
 
 >   **Login Information and Your Account**
 
