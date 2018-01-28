@@ -1,3 +1,6 @@
+
+![screenshot](logo_new_second_web.png)
+
 # PRIVACY POLICY 
 
 ### Last Modified: 14 January, 2018
