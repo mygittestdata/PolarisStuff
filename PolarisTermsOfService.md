@@ -28,7 +28,7 @@ the Service.
 
 **1. License**
 
-*1. Grant of a Limited License to Use the Service*
+*1.1 Grant of a Limited License to Use the Service*
      
 Subject to your agreement and continuing compliance with these Terms of Service and any other relevant my policies, I grants you a non-
 exclusive, non-transferable, non-sublicensable, revocable and limited license to access and use the Service for your own non-commercial 
@@ -47,24 +47,18 @@ commercial advertisements, including chain letters, junk or spam e-mail or repet
 
  **Login Information and Your Account**
 
- You may be required to select a password for your Account or you may also
- use other credentials to access the Account (“Login Information”). You shall
- not share the Account or the Login Information, not let anyone else access
- your Account or do anything else that might jeopardize the security of your
-   Account. In the event you become aware of or reasonably suspect any breach
-   of security, including without limitation any loss, theft, or unauthorized
-   disclosure of the Login information, you must immediately notify me and
-   modify your Login Information. You are solely responsible for maintaining
-   the confidentiality of the Login Information, and you will be responsible
-   for all uses of the Login Information, including purchases, whether or not
-   authorized by you. You are responsible for anything that happens through
-   your Account.
+You may be required to select a password for your Account or you may also use other credentials to access the Account (“Login 
+Information”). You shall not share the Account or the Login Information, not let anyone else access your Account or do anything else 
+that might jeopardize the security of your Account. In the event you become aware of or reasonably suspect any breach of security, 
+including without limitation any loss, theft, or unauthorized disclosure of the Login information, you must immediately notify me and 
+modify your Login Information. You are solely responsible for maintaining the confidentiality of the Login Information, and you will be 
+responsible for all uses of the Login Information, including purchases, whether or not authorized by you. You are responsible for 
+anything that happens through your Account.
 
-   I reserves the right to remove or reclaim any usernames at any time and for
-   any reason, including but not limited to claims by a third party that a
-   username violates the third party’s rights.
+I reserves the right to remove or reclaim any usernames at any time and for any reason, including but not limited to claims by a third 
+party that a username violates the third party’s rights.
 
-   The Service supports only one Account per game on a supported device.
+The Service supports only one Account per game on a supported device.
 
    **License Limitations**
 
@@ -145,9 +139,9 @@ commercial advertisements, including chain letters, junk or spam e-mail or repet
    action as a result, which may include terminating your Account and
    prohibiting you from using the Service in whole or in part.
 
-1.  **Suspension and Termination of Account and Service**
+*1.2 Suspension and Termination of Account and Service*
 
-    WITHOUT LIMITING ANY OTHER REMEDIES, I MAY LIMIT SUSPEND, TERMINATE, MODIFY,
+WITHOUT LIMITING ANY OTHER REMEDIES, I MAY LIMIT SUSPEND, TERMINATE, MODIFY,
     OR DELETE ACCOUNTS OR ACCESS TO THE SERVIC OR PORTIONS THEREOF IF YOU ARE,
     OR I SUSPECTS THAT YOU ARE, FAILING TO COMPLY WITH ANY OF THESE TERMS OF
     SERVICE OR FOR ANY ACTUAL OR SUSPECTED ILLEGAL OR IMPROPER USE OF THE
