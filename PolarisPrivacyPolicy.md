@@ -38,6 +38,7 @@ your interests, and making the Service easier to use. You can disable cookies at
 feature of Service.
 
 *Other Collection Practices*
+
 This sites includes Social Media Features, such as the Facebook Like button and Widgets, such as the Share this button or interactive 
 mini-programs that run on our sites. These Features may collect your IP address, which page you are visiting on my Sites, and may set a 
 cookie to enable the Feature to function properly. Social Media Feature and Widget are either hosted by a third party of hosted directly 
@@ -62,6 +63,7 @@ We use information collected through our Service for purposes described in this 
 -	Link or combine it with other information we get from third parties, to help understand your preferences and provide you with better services;
 
 *Website Services*
+
 While you are browsing the Sites, your computer‘s operating system, Internet Protocol (IP) address, access times, browser type and 
 language and referring Web site addresses may be logged automatically. We may use this information to monitor, develop and analyse your 
 use of the Service.
@@ -69,6 +71,7 @@ use of the Service.
 We may ask you to submit and we may process data that is personal to you, including but not limited to your name, profile photo, gender, age or birthday, links to your profiles on social networking websites and other third party sites, user names and e-mail and mail addresses. We may use this information to create a user profile and provide you Services.
 
 *Forum and Private Messages*
+
 Our Sites offers publicly accessible blogs, private messages, or community forums. You should be aware that any information you provide 
 in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our 
 blogs or community forum, please contact us. In some cases, we may not able to remove your personal information, in which case we will 
@@ -77,6 +80,7 @@ let you know if we are unable to do so and why.
 If you choose to use Facebook connect to use our blog or community forums, the information you provide is tied to your Facebook account. You will need to contact Facebook directly. 
 
 *Customer Service*
+
 We may use your email address when you contact my customer service group to contact you about your gaming experience with my games and 
 notify you about company news and promotions.
 
