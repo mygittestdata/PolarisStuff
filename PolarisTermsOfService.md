@@ -397,12 +397,12 @@ You may terminate your Account at any time and for any reason.
     SOLE REMEDY (AND MY EXCLUSIVE LIABILITY) FOR ANY DISPUTE WITH ME IS TO STOP
     USING THE SERVICE AND TO CANCEL YOUR ACCOUNT.
 
-    NOTHING IN THESE TERMS OF SERVICE SHALL AFFECT THE STATUTORY RIGHTS OF ANY
+   NOTHING IN THESE TERMS OF SERVICE SHALL AFFECT THE STATUTORY RIGHTS OF ANY
     CONSUMER OR EXCLUDE OR RESTRICT ANY LIABILITY RESULTING FROM GROSS
     NEGLIGENCE OR WILLFUL MISCONDUCT OF “KUNJESH VIRANI” OR FOR DEATH OR
     PERSONAL INJURY ARISING FROM ANY NEGLIGENCE OR FRAUD OF “KUNJESH VIRANI”.
 
-    You agree to indemnify, defend and hold me (and our officers, directors,
+   You agree to indemnify, defend and hold me (and our officers, directors,
     agents, subsidiaries, joint ventures and employees) harmless from any claim,
     demand, damages or other losses, including reasonable attorneys' fees,
     asserted by any third-party resulting from or arising out of your use of the
