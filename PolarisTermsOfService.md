@@ -139,11 +139,11 @@ commercial advertisements, including chain letters, junk or spam e-mail or repet
     identifiable information (whether in text, image or video form),
     identification documents, or financial information through the Service.
 
->   I reserves the right to determine what conduct it considers to be in
->   violation of the rules of use or otherwise outside the intent or spirit of
->   these Terms of Service or the Service itself. I reserves the right to take
->   action as a result, which may include terminating your Account and
->   prohibiting you from using the Service in whole or in part.
+   I reserves the right to determine what conduct it considers to be in
+   violation of the rules of use or otherwise outside the intent or spirit of
+   these Terms of Service or the Service itself. I reserves the right to take
+   action as a result, which may include terminating your Account and
+   prohibiting you from using the Service in whole or in part.
 
 1.  **Suspension and Termination of Account and Service**
 
