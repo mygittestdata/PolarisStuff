@@ -30,6 +30,7 @@ We may collect the following information and data from you.
 - Game data (such as your interactions with the game and with the other players inside the game via server log files, your player ID)
 
 *Tracking Technologies*
+
 I and my marketing and outsourcing partners affiliates, or analytics service providers use technologies such as cookies, beacons, 
 scripts and tags to identify a user’s computer/device and to “remember” things about your visit, such as your preferences or a user name 
 and password. Information, such as your user ID, for purposes such as improving the quality of my Services, tailoring recommendations to 
