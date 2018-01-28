@@ -138,5 +138,72 @@ Service session activity, viewing of and interaction with an advertisement, devi
 information and IP address for the purposes of analyzing, tracking and measuring advertisement performance and to provide interest based 
 advertising.
 
+In addition, you may see our games advertised in other services.  After clicking on one of these advertisements and installing our game, 
+you will become a user of our Service.  In order to verify the installs, a device identifier may be shared with the advertiser or third 
+party advertiser or analytics partner.
+
+### How We May Disclose Your Information to Third Parties
+
+I do not share your personal information except as approved by you or as described below:
+
+-	I may engage other companies and individuals to perform services on my (or “our”) behalf. Example of these services include analysing 
+the data and providing a customer support. These agents and service providers may have access to your personal information in connection 
+with the performance of service for me.
+-	I may release your information as permitted by law, such as to comply with a subpoena, or when we believe that release is appropriate 
+to comply with the law; investigate fraud, respond to a government request, enforce or apply our rights; or protect the rights, 
+property, or safety of us or our users, or others.  This includes exchanging information with other companies and organizations for 
+fraud protection. In certain situations, I may be required to disclose personal information in response to lawful requests by public 
+authorities or for local law enforcement requirements.
+-	I may share your information in connection with any merger, sale of our assets, or a financing or acquisition of all or a portion of 
+our business to another company. You will be notified via email and/or notice on our Sites of any change in ownership or users of your 
+personal information.
+-	We may share aggregate or anonymous information about you with advertisers, publishers, business partners, sponsors, and other third parties.
+
+### Accessing, Collecting and Deleting Information
+
+Upon request, we will provide you with information about whether we hold any of your personal information. If your personal information 
+changes, or if you no longer desire our Services, you may correct, update, delete inaccuracies, or delete your personal information by 
+making the change within your account settings or by contacting us.  In some cases, we may not be able to remove your personal 
+information, in which case we will let you know if we are unable to do so and why. We will respond to your access request within a 
+reasonable timeframe.
+
+### Security Safeguards
+
+I takes reasonable measures to protect your information from unauthorized access or against loss, misuse or alteration by third parties.
+
+Although we make good faith efforts to store the information collected on the Service in a secure operating environment that is not 
+available to the public, we cannot guarantee the absolute security of that information during its transmission or its storage on our 
+systems. Further, while we attempt to ensure the integrity and security of our network and systems, we cannot guarantee that our 
+security measures will prevent third-party "hackers" from illegally obtaining access to this information. We do not warrant or 
+represent that your information will be protected against, loss, misuse, or alteration by third parties. No method of transmission over 
+the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security.
+
+### Data Retention
+
+We retain your information for as long as your account is active or as needed to provide you Services.  We will also retain and use your 
+information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+
+### Our Policy Regarding Children
+
+We do not knowingly collect or solicit personal information from or direct or target interest based advertising to anyone under the age 
+of 13 or knowingly allow such persons to use our Services.  If you are under 13, please do not send any information about yourself to 
+us, including your name, address, telephone number, or email address. No one under the age of 13 may provide any personal information.  
+In the event that we learn that we have collected personal information from a child under age 13, we will delete that information as 
+quickly as possible.  If you believe that we might have any information from or about a child under the age of 13, please contact us.
+
+### International Transfer
+
+We may transfer information that we collect about you to affiliated entities, or to other third parties across borders and from your 
+country or jurisdiction to other countries or jurisdictions around the world. Please note that these countries and jurisdictions may not 
+have the same data protection laws as your own jurisdiction, and we take steps to ensure adequate safeguards are in place to enable 
+transfer of information to the INDIA. and the use and disclosure of information about you, including personal information, as described 
+in this Policy.
+
+### Changes to This Policy
+
+We may update this Policy to reflect changes to our data and information privacy practices. If we make any material changes we will 
+notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change 
+becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
+
 
 
