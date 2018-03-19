@@ -1,3 +1,6 @@
+
+[!screenshot](logo_new_second_web.png)
+
 # Polaris
 ## Contains Polaris Android Game info including all
 
